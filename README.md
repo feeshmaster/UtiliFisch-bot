@@ -1,0 +1,1 @@
+this is a bot that i made with like no features rn but it uses js instead of py this time
